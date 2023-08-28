@@ -1,0 +1,23 @@
+.page{
+	 background-color: #323f4b;
+    background-size: cover;
+    padding: 10px;
+}
+.main-heading{
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 50px;
+	color: #9aa5b1;
+
+}
+.details{
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 30px;
+	 color: #e6e6e6;
+}
+.table-color{
+	 background-color: #99ccff;
+    background-size: cover;
+    padding: 10px;
+}
